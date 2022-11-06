@@ -4,3 +4,4 @@ token.json
 .ipynb_checkpoints/*
 config.py
 meli.db
+__pycache__/*
